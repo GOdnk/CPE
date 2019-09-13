@@ -25,6 +25,6 @@ int main(void)
   printf("The square root of 2.0 is %f\n", squareRoot(144.0));
 
   printf("The square root of 2.0 is %f\n", squareRoot(17.5));
-  system("pause");
+  system("pause"); //ug
 return 0;
 }
